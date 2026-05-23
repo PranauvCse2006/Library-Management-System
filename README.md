@@ -31,3 +31,11 @@ This project allows users to manage library books efficiently through a simple m
 
 ```bash
 g++ main.cpp -o library
+
+```
+
+## How to Run
+
+```bash
+.\library.exe
+```
